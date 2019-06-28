@@ -1,0 +1,27 @@
+{
+  "name": "pekg-cli",
+  "version": "1.0.0",
+  "description": "simple actions to package.json",
+  "main": "index.js",
+  "bin": {
+    "pekg": "./bin/pekg.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimCN/pekg-cli.git"
+  },
+  "keywords": [],
+  "author": "tim Huang <tim.shanghai@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimCN/pekg-cli/issues"
+  },
+  "homepage": "https://github.com/TimCN/pekg-cli#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "ora": "^3.4.0"
+  }
+}
