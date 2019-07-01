@@ -1,6 +1,6 @@
 {
   "name": "pekg-cli",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "simple actions to package.json",
   "main": "index.js",
   "bin": {
